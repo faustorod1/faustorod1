@@ -36,7 +36,15 @@
   
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Haskell](https://badgen.net/badge/icon/haskell?icon=haskell&label)
+    ![Haskell](https://img.shields.io/badge/Haskell%20-%2300599C.svg?style=for-the-badge&logo=haskell&label%2B%2B&logoColor=white)
+    ![Prolog](https://img.shields.io/badge/Prolog%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Wollok](https://img.shields.io/badge/Wollok%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  
+- **Extras**:
+  
+    ![HTML](https://img.shields.io/badge/HTML%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Css](https://img.shields.io/badge/Css%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/Markdown%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
 <br>
 
