@@ -20,6 +20,7 @@
 - Studing Systems Engineering at the UTN (National Technological University of Argentina)
 - Currently learning Prolog and studing Operative Systems
 - I have a good command of both Spanish and English
+- The Pardigms I have dealt with: Sequential, Procedural, Functional, Logical, Object-Oriented and Declarative.
 - I’m currently open for an Intern or a new job opportunity
 
 <br><br>
