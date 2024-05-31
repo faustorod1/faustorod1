@@ -17,11 +17,10 @@
 
 <br>
 
-- 
-- 
-- 
-- 
-- 
+- Studing Systems Engineering at the UTN (National Technological University of Argentina)
+- Currently learning Prolog and studing Operative Systems
+- I have a good command of both Spanish and English
+- I’m currently open for an Intern or a new job opportunity
 
 <br><br>
 
