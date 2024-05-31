@@ -42,9 +42,9 @@
   
 - **Extras**:
   
-    ![HTML](https://img.shields.io/badge/HTML%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Css](https://img.shields.io/badge/Css%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/Markdown%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![Css](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   
 <br>
 
