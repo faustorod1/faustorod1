@@ -85,6 +85,13 @@
 <img src="https://img.shields.io/badge/gmail:  faustoandresrodriguez-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
+
+<li>
+<a href="https://linkedin.com/in/fausto-rodríguez-3b23751a6/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin: Fausto Rodiguez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
 <!--
 **faustorod1/faustorod1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
