@@ -9,7 +9,7 @@
 
 ## 👨‍💻 **About Me**
 
-- 🎓 **Systems Engineering Student** at **UTN** (4th Year).
+- 🎓 **Systems Engineering Student** at **UTN** frba (4th Year).
 - 🛠️ Deeply interested in **Software Architecture**, **SOLID Principles**, and **Clean Code**.
 - 🌐 **English C1 Advanced** | Native Spanish.
 - 🧠 Strong foundation in multiple paradigms: **Object-Oriented, Functional, and Logical**.
